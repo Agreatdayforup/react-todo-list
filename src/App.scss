@@ -1,0 +1,15 @@
+$mainColor: red;
+
+.HelloCont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}.wow {
+    color: $mainColor;
+}
+
+.helloImg {
+    height: 500px;
+}
